@@ -30,6 +30,9 @@ dependencies {
      * 系统库
      */
     compile 'com.android.support:appcompat-v7:25.0.0'
-    compile 'com.android.support:recyclerview-v7:25.0.0'
+    /**
+     * SSwipeRefreshLayout自定义上拉下拉视图
+     */
+//    compile 'com.github.AcmenXD:SSwipeRefreshLayout:1.0'
     compile project(':sswiperefreshlayout_')
 }
