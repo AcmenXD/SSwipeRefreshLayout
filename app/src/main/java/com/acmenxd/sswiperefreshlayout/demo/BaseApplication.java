@@ -1,4 +1,4 @@
-package com.acmenxd.sswiperefreshlayout;
+package com.acmenxd.sswiperefreshlayout.demo;
 
 import android.app.Application;
 import android.content.res.Configuration;

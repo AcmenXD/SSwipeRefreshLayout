@@ -1,4 +1,4 @@
-package com.acmenxd.sswiperefreshlayout;
+package com.acmenxd.sswiperefreshlayout.demo;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -15,6 +15,8 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.acmenxd.sswiperefreshlayout.SSwipeRefreshLayout;
 
 import java.util.ArrayList;
 import java.util.List;
