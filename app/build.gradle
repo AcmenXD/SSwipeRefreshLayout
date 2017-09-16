@@ -33,6 +33,6 @@ dependencies {
     /**
      * SSwipeRefreshLayout自定义上拉下拉视图
      */
-//    compile 'com.github.AcmenXD:SSwipeRefreshLayout:1.0'
-    compile project(':sswiperefreshlayout_')
+    compile 'com.github.AcmenXD:SSwipeRefreshLayout:1.0'
+//    compile project(':sswiperefreshlayout_')
 }
